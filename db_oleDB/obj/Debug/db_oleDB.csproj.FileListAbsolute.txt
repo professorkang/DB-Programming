@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\db\db_oleDB\bin\Debug\db_oleDB.exe.config
+C:\Users\konyang\source\repos\db\db_oleDB\bin\Debug\db_oleDB.exe
+C:\Users\konyang\source\repos\db\db_oleDB\bin\Debug\db_oleDB.pdb
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.Form1.resources
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.Properties.Resources.resources
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.exe
+C:\Users\konyang\source\repos\db\db_oleDB\obj\Debug\db_oleDB.pdb
