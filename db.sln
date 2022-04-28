@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db_sql", "db\db_sql.csproj", "{556F9BFD-4886-4A7D-9372-8C24C4E8FEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db_oleDB", "db_oleDB\db_oleDB.csproj", "{81E44710-B878-4C47-9617-2F145DE935F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556F9BFD-4886-4A7D-9372-8C24C4E8FEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F9BFD-4886-4A7D-9372-8C24C4E8FEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F9BFD-4886-4A7D-9372-8C24C4E8FEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F9BFD-4886-4A7D-9372-8C24C4E8FEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E44710-B878-4C47-9617-2F145DE935F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E44710-B878-4C47-9617-2F145DE935F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E44710-B878-4C47-9617-2F145DE935F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E44710-B878-4C47-9617-2F145DE935F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B482DD-E88B-4AFF-AC36-826EF7065C20}
+	EndGlobalSection
+EndGlobal
